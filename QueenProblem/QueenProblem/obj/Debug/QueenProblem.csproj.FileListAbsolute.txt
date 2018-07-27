@@ -1,0 +1,6 @@
+C:\GitSource\personalprojects\QueenProblem\QueenProblem\bin\Debug\QueenProblem.exe.config
+C:\GitSource\personalprojects\QueenProblem\QueenProblem\bin\Debug\QueenProblem.exe
+C:\GitSource\personalprojects\QueenProblem\QueenProblem\bin\Debug\QueenProblem.pdb
+C:\GitSource\personalprojects\QueenProblem\QueenProblem\obj\Debug\QueenProblem.csprojResolveAssemblyReference.cache
+C:\GitSource\personalprojects\QueenProblem\QueenProblem\obj\Debug\QueenProblem.exe
+C:\GitSource\personalprojects\QueenProblem\QueenProblem\obj\Debug\QueenProblem.pdb
