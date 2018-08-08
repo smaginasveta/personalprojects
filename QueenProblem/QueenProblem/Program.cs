@@ -12,8 +12,12 @@ namespace QueenProblem
     {
         static void Main(string[] args)
         {
+            var boardSize = 4;
 
-
+            var board = new ChessBoard(boardSize);
+            board.SearchQueenProblemSolution();
+            Console.ReadLine();
         }
+        
     }
 }
